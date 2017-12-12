@@ -1,0 +1,14 @@
+H:\课程\数据结构\实验三\e1\e1\bin\Debug\e1.exe.config
+H:\课程\C#\C#实验1\e1\e1\bin\Debug\e1.exe.config
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.csprojResolveAssemblyReference.cache
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.Form1.resources
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.Form2.resources
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.Form3.resources
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.Form4.resources
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.Properties.Resources.resources
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.csproj.GenerateResource.Cache
+C:\Users\阿睿\Desktop\C#\e1\e1\bin\Debug\e1.exe.config
+C:\Users\阿睿\Desktop\C#\e1\e1\bin\Debug\e1.exe
+C:\Users\阿睿\Desktop\C#\e1\e1\bin\Debug\e1.pdb
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.exe
+C:\Users\阿睿\Desktop\C#\e1\e1\obj\Debug\e1.pdb
